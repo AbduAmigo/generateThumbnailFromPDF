@@ -1,5 +1,6 @@
 # generateThumbnailFromPDF
-This source code is to generate a thumbnail from pdf
+
+This source code is to generate a thumbnail from pdf in PHP (codeigniter and laravel)
 
 * All you need is to follow the instructure:
 1 - Download the library (Imagick)
