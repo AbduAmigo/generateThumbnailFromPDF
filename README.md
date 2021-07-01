@@ -1,4 +1,4 @@
-# generateThumbnailFromPDF
+# PHP function generateThumbnailFromPDF
 
 This source code is to generate a thumbnail from pdf in PHP (codeigniter and laravel)
 
